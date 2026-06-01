@@ -1,6 +1,6 @@
 # Library project
 
-![Library Illustration](ibrary.jpg)
+![Library Illustration](library.jpg)
 
 ![Database ERD Diagram](library_erd.png)
 
