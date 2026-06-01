@@ -14,7 +14,7 @@ Database Creation: Created a database named library_db.
 Table Creation: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
 
 
-CREATE DATABASE library_db;
+''' sql CREATE DATABASE library_db;
 
 DROP TABLE IF EXISTS branch;
 CREATE TABLE branch
