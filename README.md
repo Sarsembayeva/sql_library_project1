@@ -90,9 +90,6 @@ CREATE TABLE return_status
             return_book_isbn VARCHAR(50),
             FOREIGN KEY (return_book_isbn) REFERENCES books(isbn)
 );
-
-```
-
 ### 2. CRUD Operations
 
 - **Create**: Inserted sample records into the `books` table.
