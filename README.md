@@ -2,6 +2,8 @@
 
 ibrary.jpg
 
+library_erd.png
+
 CREATE DATABASE library_db;
 
 DROP TABLE IF EXISTS branch;
