@@ -1,8 +1,8 @@
 # Library project
 
-ibrary.jpg
+![Library Illustration](ibrary.jpg)
 
-library_erd.png
+![Database ERD Diagram](library_erd.png)
 
 CREATE DATABASE library_db;
 
